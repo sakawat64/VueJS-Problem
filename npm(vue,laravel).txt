@@ -1,0 +1,10 @@
+All are configure must be in resourse/js/app.js file
+1. npm install //for install npm
+2. npm install admin-lte@v3.0.0 --save //for install admin lte v3.0.0
+3. npm install vue-router //for install vue router
+4. npm i axios vform //for install v-form
+5. npm install sweetalert2 //for install sweet alert
+6. npm install vuex --save //for install vuex
+7. npm install moment --save //for install date format and vue filter
+8. npm install v-markdown-editor //for install vuejs markdown editor
+9. npm install --save @fortawesome/fontawesome-free //for install fontawesome
