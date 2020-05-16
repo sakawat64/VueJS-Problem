@@ -8,3 +8,7 @@ All are configure must be in resourse/js/app.js file
 7. npm install moment --save //for install date format and vue filter
 8. npm install v-markdown-editor //for install vuejs markdown editor
 9. npm install --save @fortawesome/fontawesome-free //for install fontawesome
+10. npm install laravel-vue-datatable //for datatable
+
+    Image intervention for modified photo
+    vuejs many example in search google example vuejs
